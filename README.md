@@ -10,3 +10,5 @@
 - 🌱 Eu Estou Aprendendo a Programar Recentemente a linguagens de JavaScript e Scratch
 
 
+[Scratch](https://img.shields.oi/badge/Scratch-4D97FF?style=for-the-badge&logo=Scratch&logoColor=white)
+
